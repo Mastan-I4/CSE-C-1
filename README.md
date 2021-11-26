@@ -14,3 +14,5 @@
  [Google]("www.Google.com")
 #Img in Readme File
 ![Dhoni1](Dhoni.jpg)
+
+![Dhoni1](https://raw.githubusercontent.com/Ganneshsaieram/CSE-C/master/Dhoni1.jpg)
