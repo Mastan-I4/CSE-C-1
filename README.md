@@ -41,7 +41,34 @@ Open Readme file
       2.roll number
       3.branch
       4.college
-##nested list
+## nested list
+      1.name
+       *first name
+       *last name
+       *surname
+        
+      2.github
+        *user
+        
+      3.Roll number
+      4.Branch
+       1.CSE
+       2.EEE
+       3.ECE
+       4.CIVIL
+       5.MEC
+        
+       5.COLLEGE
+       
+       
+ ```python
+    def hello()
+    a=2
+    b=3
+    c=43
+    print(a+b+c)
+```
+ 
 
      
      
